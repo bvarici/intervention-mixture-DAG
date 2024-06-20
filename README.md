@@ -1,5 +1,5 @@
 # intervention-mixture-DAG
-Codebase for the paper "Interventional Causal Discovery in a Mixture of DAGs"
+Codebase for the paper "[Interventional Causal Discovery in a Mixture of DAGs](https://arxiv.org/abs/2406.08666)"
 
 ### Requirements
 For generating and manipulating graphs, it uses networkx and causaldag packages
